@@ -1,0 +1,371 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "first_steps",
+      "name_ru": "Первые шаги: слова, фразы, картинки",
+      "description": "Книги для самого старта: буквы, короткие слова, повторы, рифмы. Возраст 3–8 лет.",
+      "books": [
+        {
+          "id": "mother_goose",
+          "title_ru": "Настоящая Мать Гусыня",
+          "title_original": "The Real Mother Goose",
+          "author": "Blanche Fisher Wright",
+          "language": "en",
+          "age": "3–7 лет",
+          "why_useful": "Фонематический слух, ритм, рифма, память на частотные слова. Тексты короткие, учатся построчно.",
+          "format": "Бесплатный ebook / текст с иллюстрациями, можно распечатать",
+          "source_name": "Project Gutenberg",
+          "source_url": "https://www.gutenberg.org/ebooks/search/?query=The+Real+Mother+Goose",
+          "alternatives": [
+            {"name": "LibriVox (аудио)", "url": "https://librivox.org/search?q=Mother+Goose"}
+          ],
+          "key_words": ["cat", "dog", "moon", "star", "rain", "run", "sleep", "play"],
+          "notes": "IPA в издании нет. Произношение проверяйте в Cambridge Dictionary."
+        },
+        {
+          "id": "peter_rabbit",
+          "title_ru": "Питер Кролик",
+          "title_original": "The Tale of Peter Rabbit",
+          "author": "Beatrix Potter",
+          "language": "en",
+          "age": "4–8 лет",
+          "why_useful": "Первый цельный сюжет: простые повествовательные предложения, лексика животных, сада, одежды и движения.",
+          "format": "Бесплатный EPUB / Kindle / PDF с иллюстрациями",
+          "source_name": "Standard Ebooks",
+          "source_url": "https://standardebooks.org/ebooks?query=Peter+Rabbit",
+          "alternatives": [
+            {"name": "Project Gutenberg", "url": "https://www.gutenberg.org/ebooks/search/?query=The+Tale+of+Peter+Rabbit"}
+          ],
+          "key_words": ["rabbit", "garden", "run", "hide", "jacket", "shoes", "mother"],
+          "notes": "Отлично для первого пересказа."
+        },
+        {
+          "id": "al_qaida_nuraniyya",
+          "title_ru": "Нуранская база (Аль-Каида ан-Нурания)",
+          "title_original": "قاعدة نورانية",
+          "author": "Традиционный букварь; изданий много",
+          "language": "ar",
+          "age": "5–8 лет",
+          "why_useful": "Учит видеть и читать огласовки: фатха, дамма, касра, шва, танвин. Без этого ребёнок угадывает слова, а не читает их.",
+          "format": "PDF-сканы, часто бесплатно в архивах; можно распечатать",
+          "source_name": "Internet Archive",
+          "source_url": "https://archive.org/search?query=Al-Qaida+Al-Nuraniyya",
+          "alternatives": [
+            {"name": "Internet Archive (по-арабски)", "url": "https://archive.org/search?query=%D9%82%D8%A7%D8%B9%D8%AF%D8%A9+%D9%86%D9%88%D8%B1%D8%A7%D9%86%D9%8A%D8%A9"}
+          ],
+          "key_words": ["ا", "ب", "ت", "فتحة", "ضمة", "كسرة", "سكون", "شدة"],
+          "notes": "В некоторых изданиях есть религиозная лексика. Для светского обучения используйте только буквенно-звуковые страницы или нейтральные детские версии."
+        },
+        {
+          "id": "thirsty_crow_ar",
+          "title_ru": "Жаждущая ворона",
+          "title_original": "الغراب العطشان",
+          "author": "Сюжет Эзопа; арабская детская адаптация",
+          "language": "ar",
+          "age": "4–7 лет",
+          "why_useful": "Очень короткая история с повторяющейся логикой. Отработка простых глаголов и причинно-следственных связей.",
+          "format": "PDF / ebook / иногда аудио; выбирайте детский вариант с картинками",
+          "source_name": "Internet Archive",
+          "source_url": "https://archive.org/search?query=%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8+%D8%A7%D9%84%D8%B9%D8%B7%D8%B4%D8%A7%D9%86",
+          "alternatives": [
+            {"name": "Storyweaver", "url": "https://storyweaver.org.in/search?query=The+Thirsty+Crow"}
+          ],
+          "key_words": ["ماء", "غراب", "حجر", "كوز", "يشرب"],
+          "notes": "Ищите издание с полной огласовкой."
+        },
+        {
+          "id": "pinyin_tones",
+          "title_ru": "Китайский: пиньинь и тоны",
+          "title_original": "Mandarin Chinese: Pinyin and Tones",
+          "author": "Участники Wikibooks",
+          "language": "zh",
+          "age": "6+, со взрослым",
+          "why_useful": "База произношения: таблица пиньиня, четыре тона, простые слоги, приветствия, числа. Без пиньиня и тонов ребёнок читает иероглифы «на глаз».",
+          "format": "Онлайн / PDF, бесплатно",
+          "source_name": "Wikibooks",
+          "source_url": "https://en.wikibooks.org/wiki/Mandarin_Chinese",
+          "alternatives": [],
+          "key_words": ["mā", "má", "mǎ", "mà", "ma", "nǐ hǎo", "xièxie"],
+          "notes": "Это учебник-помощник, а не детская сказка. Используйте вместе с картинками и карточками."
+        },
+        {
+          "id": "crow_drinks_water_zh",
+          "title_ru": "Ворона пьёт воду",
+          "title_original": "乌鸦喝水",
+          "author": "Сюжет Эзопа в китайской детской адаптации",
+          "language": "zh",
+          "age": "4–7 лет",
+          "why_useful": "Параллельна английской и арабской «Вороне» — одна сюжетная линия снижает когнитивную нагрузку.",
+          "format": "PDF / ebook / распечатки архивных сканов",
+          "source_name": "Internet Archive",
+          "source_url": "https://archive.org/search?query=%E4%B9%8C%E9%B8%A6%E5%96%9D%E6%B0%B4+%E6%8B%BC%E9%9F%B3+%E5%84%BF%E7%AB%A5",
+          "alternatives": [],
+          "key_words": ["乌鸦", "喝水", "石头", "瓶子", "水"],
+          "notes": "Ищите拼音版 / 儿童拼音版. Если издание без пиньиня — добавьте его вручную по таблице из Wikibooks."
+        }
+      ]
+    },
+    {
+      "id": "basic_vocabulary",
+      "name_ru": "Закрепление базовой лексики: животные, сказки, семья, действия",
+      "description": "Короткие сюжеты с животными и простой моралью. Возраст 4–9 лет.",
+      "books": [
+        {
+          "id": "aesop_fables",
+          "title_ru": "Басни Эзопа",
+          "title_original": "Aesop's Fables",
+          "author": "Aesop",
+          "language": "en",
+          "age": "5–8 лет",
+          "why_useful": "Идеальна для темы «животные» и простых конструкций: The lion is strong. The mouse is small. Развивает понимание сюжета и частотных глаголов.",
+          "format": "Бесплатный ebook / онлайн-текст",
+          "source_name": "Project Gutenberg",
+          "source_url": "https://www.gutenberg.org/ebooks/search/?query=Aesop%27s+Fables",
+          "alternatives": [],
+          "key_words": ["lion", "mouse", "fox", "crow", "strong", "small", "run", "help"],
+          "notes": null
+        },
+        {
+          "id": "blue_fairy_book",
+          "title_ru": "Синяя феерическая книга",
+          "title_original": "The Blue Fairy Book",
+          "author": "Andrew Lang; илл. H. J. Ford",
+          "language": "en",
+          "age": "6–9 лет, лучше со взрослым",
+          "why_useful": "Покрывает интерес «принцессы» и «сказки». Даёт сказочные формулы: Once upon a time, the king said… Тексты местами старомодные — 1–2 сказки за сеанс.",
+          "format": "Бесплатный ebook / PDF / онлайн",
+          "source_name": "Project Gutenberg",
+          "source_url": "https://www.gutenberg.org/ebooks/search/?query=The+Blue+Fairy+Book",
+          "alternatives": [],
+          "key_words": ["king", "queen", "princess", "castle", "magic", "dress", "long ago"],
+          "notes": "Выбирайте 1–2 сказки за раз."
+        },
+        {
+          "id": "kalila_wa_dimna",
+          "title_ru": "Калила и Димна (детские адаптации)",
+          "title_original": "كليلة ودمنة",
+          "author": "Ibn al-Muqaffi‘; детские адаптации",
+          "language": "ar",
+          "age": "6–9 лет",
+          "why_useful": "Диалогическая речь, союзы и связки: قال، ذهب، رأى، لأن، لكن. Для ребёнка — 5–7 коротких сюжетов с животными.",
+          "format": "PDF-сканы, иногда с цветными иллюстрациями",
+          "source_name": "Internet Archive",
+          "source_url": "https://archive.org/search?query=%D9%83%D9%84%D9%8A%D9%84%D8%A9+%D9%88%D8%AF%D9%85%D9%86%D8%A9+%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+          "alternatives": [],
+          "key_words": ["أسد", "ثور", "غراب", "قال", "ذهب", "رأى", "لأن", "لكن"],
+          "notes": "Ищите أطفال / مختارات, а не полный классический текст."
+        },
+        {
+          "id": "lion_mouse_ar",
+          "title_ru": "Лев и мышь",
+          "title_original": "الأسد والفأر",
+          "author": "Сюжет Эзопа; арабская детская адаптация",
+          "language": "ar",
+          "age": "4–7 лет",
+          "why_useful": "Пара контрастов: أسد كبير / فأر صغير, قوي / ضعيف. Отлично для первых пересказов и инсценировок.",
+          "format": "PDF / ebook / аудио в некоторых изданиях",
+          "source_name": "Internet Archive",
+          "source_url": "https://archive.org/search?query=%D8%A7%D9%84%D8%A3%D8%B3%D8%AF+%D9%88%D8%A7%D9%84%D9%81%D8%A3%D8%B1+%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+          "alternatives": [
+            {"name": "Storyweaver", "url": "https://storyweaver.org.in/search?query=The+Lion+and+the+Mouse"}
+          ],
+          "key_words": ["أسد", "فأر", "كبير", "صغير", "قوي", "ضعيف"],
+          "notes": null
+        },
+        {
+          "id": "waiting_for_rabbit",
+          "title_ru": "Крестьянин у пня ждёт зайца",
+          "title_original": "守株待兔",
+          "author": "Древняя китайская притча; адаптации с пиньинем",
+          "language": "zh",
+          "age": "5–8 лет",
+          "why_useful": "Частотные слова: 兔子, 树桩, 农民, 等, 跑. Отработка завершённости действия через контекст.",
+          "format": "PDF / печатные учебные карточки / архивные детские издания",
+          "source_name": "Internet Archive",
+          "source_url": "https://archive.org/search?query=%E5%AE%88%E6%A0%AA%E5%BE%85%E5%85%94+%E6%8B%BC%E9%9F%B3+%E5%84%BF%E7%AB%A5",
+          "alternatives": [
+            {"name": "Wikisource (первоисточник)", "url": "https://zh.wikisource.org/wiki/%E9%9F%93%E9%9D%9E%E5%AD%90"}
+          ],
+          "key_words": ["兔子", "树桩", "农民", "等", "跑"],
+          "notes": "Ищите 儿童拼音版."
+        },
+        {
+          "id": "mulan_shi",
+          "title_ru": "Песнь о Мулан",
+          "title_original": "木兰诗",
+          "author": "Древнее анонимное стихотворение; детские издания",
+          "language": "zh",
+          "age": "7–10 лет, со взрослым",
+          "why_useful": "Лексика семьи и действий: 爸爸, 女儿, 马, 买, 去, 归. Стихотворная форма помогает запоминать ритм и тоны.",
+          "format": "Оригинал — онлайн; детская версия с пиньинем — PDF/скан",
+          "source_name": "Wikisource (оригинал)",
+          "source_url": "https://zh.wikisource.org/wiki/%E6%9C%A8%E8%98%AD%E8%A9%A9",
+          "alternatives": [
+            {"name": "Internet Archive (детская версия)", "url": "https://archive.org/search?query=%E6%9C%A8%E5%85%B0%E8%AF%97+%E6%8B%BC%E9%9F%B3+%E5%84%BF%E7%AB%A5"}
+          ],
+          "key_words": ["爸爸", "女儿", "马", "买", "去", "归"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "speech_and_listening",
+      "name_ru": "Развитие речи и понимания на слух: повторы, рифмы, диалоги",
+      "description": "Книги с ярким ритмом и повторяющимися фразами. Возраст 4–9 лет.",
+      "books": [
+        {
+          "id": "book_of_nonsense",
+          "title_ru": "Книга нонсенса",
+          "title_original": "The Book of Nonsense",
+          "author": "Edward Lear",
+          "language": "en",
+          "age": "4–8 лет",
+          "why_useful": "Английский ритм, ударение, рифма. Ребёнок слышит музыкальность языка, даже если не понимает каждое слово.",
+          "format": "Бесплатный EPUB / PDF / Kindle",
+          "source_name": "Standard Ebooks",
+          "source_url": "https://standardebooks.org/ebooks?query=Book+of+Nonsense",
+          "alternatives": [
+            {"name": "Project Gutenberg", "url": "https://www.gutenberg.org/ebooks/search/?query=Book+of+Nonsense"}
+          ],
+          "key_words": ["owl", "cat", "old man", "nose", "shoe", "hat", "sing"],
+          "notes": "Отлично для заучивания коротких строк."
+        },
+        {
+          "id": "just_so_stories",
+          "title_ru": "Сказки о том, почему",
+          "title_original": "Just So Stories",
+          "author": "Rudyard Kipling",
+          "language": "en",
+          "age": "6–9 лет, читать вслух взрослому",
+          "why_useful": "Словарь тела и описаний: spots, trunk, hump, skin, nose. Язык богаче, чем в простых баснях — второй этап после Peter Rabbit.",
+          "format": "Бесплатный ebook / онлайн",
+          "source_name": "Project Gutenberg",
+          "source_url": "https://www.gutenberg.org/ebooks/search/?query=Just+So+Stories",
+          "alternatives": [],
+          "key_words": ["camel", "hump", "leopard", "spots", "elephant", "trunk", "nose", "skin"],
+          "notes": null
+        },
+        {
+          "id": "hare_tortoise_ar",
+          "title_ru": "Заяц и черепаха",
+          "title_original": "الأرنب والسلحفاة",
+          "author": "Сюжет Эзопа; арабская детская адаптация",
+          "language": "ar",
+          "age": "4–7 лет",
+          "why_useful": "Тема «спорт» в простой форме. Повторяющиеся фразы легко использовать для диалога и пересказа.",
+          "format": "PDF / ebook / аудио в некоторых выпусках",
+          "source_name": "Internet Archive",
+          "source_url": "https://archive.org/search?query=%D8%A7%D9%84%D8%A3%D8%B1%D9%86%D8%A8+%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%AD%D9%81%D8%A7%D8%A9+%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+          "alternatives": [
+            {"name": "Storyweaver", "url": "https://storyweaver.org.in/search?query=The+Hare+and+the+Tortoise"}
+          ],
+          "key_words": ["أرنب", "سلحفاة", "سريع", "بطيء", "يجري", "يمشي", "يفوز"],
+          "notes": null
+        },
+        {
+          "id": "frog_well",
+          "title_ru": "Лягушка на дне колодца",
+          "title_original": "井底之蛙",
+          "author": "Сюжет из «Чжуан-цзы»; детские адаптации",
+          "language": "zh",
+          "age": "6–9 лет",
+          "why_useful": "Мягко вводит тему «космос/небо»: 天, 井, 海, 大, 小. Контрастивная лексика и диалог.",
+          "format": "Оригинал — Wikisource; детская версия — PDF/скан",
+          "source_name": "Wikisource (оригинал)",
+          "source_url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E7%A7%8B%E6%B0%B4",
+          "alternatives": [
+            {"name": "Internet Archive (детская версия)", "url": "https://archive.org/search?query=%E4%BA%95%E5%BA%95%E4%B9%8B%E8%9B%99+%E6%8B%BC%E9%9F%B3+%E5%84%BF%E7%AB%A5"}
+          ],
+          "key_words": ["天", "井", "海", "大", "小", "青蛙"],
+          "notes": "Ищите 儿童拼音版."
+        },
+        {
+          "id": "gingerbread_man",
+          "title_ru": "Пряничный человечек",
+          "title_original": "The Gingerbread Man",
+          "author": "Традиционная сказка; адаптация British Council LearnEnglish Kids",
+          "language": "en",
+          "age": "5–8 лет",
+          "why_useful": "Идеальна для аудирования и повторов. Ребёнок быстро запоминает рефрен, учит глаголы движения и названия животных. Есть задания на понимание.",
+          "format": "Онлайн-история, аудио, printable activities",
+          "source_name": "British Council LearnEnglish Kids",
+          "source_url": "https://learnenglishkids.britishcouncil.org/listen-watch/short-stories",
+          "alternatives": [],
+          "key_words": ["run", "fast", "man", "woman", "cow", "horse", "fox"],
+          "notes": "Если страница изменилась — общий раздел Short Stories."
+        }
+      ]
+    },
+    {
+      "id": "advanced_beginners",
+      "name_ru": "Для более продвинутых начинающих: короткие рассказы",
+      "description": "Переход от фраз к связному тексту. Возраст 7–10 лет.",
+      "books": [
+        {
+          "id": "alice_wonderland",
+          "title_ru": "Алиса в Стране чудес",
+          "title_original": "Alice's Adventures in Wonderland",
+          "author": "Lewis Carroll; илл. John Tenniel",
+          "language": "en",
+          "age": "7+, с аудио или взрослым",
+          "why_useful": "Переход от простых фраз к длинным предложениям, вопросам, условным конструкциям. Не обязательно читать целиком — выберите 2–3 главы.",
+          "format": "Бесплатный ebook / аудио",
+          "source_name": "Project Gutenberg",
+          "source_url": "https://www.gutenberg.org/ebooks/search/?query=Alice%27s+Adventures+in+Wonderland",
+          "alternatives": [
+            {"name": "LibriVox (аудио)", "url": "https://librivox.org/search?q=Alice+in+Wonderland"}
+          ],
+          "key_words": ["rabbit", "hole", "tea", "queen", "king", "cat", "garden"],
+          "notes": "Хорошие главы для старта: The Rabbit, Mad Tea-Party, Queen's Croquet Ground."
+        },
+        {
+          "id": "sindbad_ar",
+          "title_ru": "Синдбад-мореход (детская адаптация)",
+          "title_original": "السندباد البحري",
+          "author": "Анонимный классический сюжет; детская адаптация",
+          "language": "ar",
+          "age": "7–10 лет",
+          "why_useful": "Расширяет сюжетную арабскую речь, переход от отдельных фраз к связному рассказу.",
+          "format": "PDF-сканы / детские адаптации в архивах",
+          "source_name": "Internet Archive",
+          "source_url": "https://archive.org/search?query=%D8%A7%D9%84%D8%B3%D9%86%D8%AF%D8%A8%D8%A7%D8%AF+%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A+%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+          "alternatives": [],
+          "key_words": ["سفينة", "بحر", "جزيرة", "رحلة", "خطر", "نجى"],
+          "notes": "Если полный текст сложен — берите 1–2 эпизода: первое плавание, долина алмазов, старик в море."
+        },
+        {
+          "id": "journey_west_zh",
+          "title_ru": "Путешествие на Запад: Погром в Небесном дворце",
+          "title_original": "西游记：大闹天宫",
+          "author": "Wu Cheng'en; детская адаптация с пиньинем",
+          "language": "zh",
+          "age": "7–10 лет",
+          "why_useful": "Мотивирует ребёнка динамичным сюжетом. Лексика: 猴子, 天, 宫, 打, 跑, 变. Переход к длинным предложениям.",
+          "format": "Оригинал — онлайн; детская пиньинь-версия — PDF/скан",
+          "source_name": "Wikisource (оригинал)",
+          "source_url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98",
+          "alternatives": [
+            {"name": "Internet Archive (детская версия)", "url": "https://archive.org/search?query=%E8%A5%BF%E6%B8%B8%E8%AE%B0+%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB+%E6%8B%BC%E9%9F%B3+%E5%84%BF%E7%AB%A5"}
+          ],
+          "key_words": ["猴子", "天", "宫", "打", "跑", "变"],
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "pronunciation_guides": {
+    "en": {
+      "title": "Английский: произношение и IPA",
+      "text": "В детских public domain книгах транскрипция IPA почти не встречается. Используйте книги для ритма и лексики, а произношение проверяйте в бесплатном словаре: Cambridge Dictionary, Oxford Learner's Dictionaries.\n\nЛучше всего для звукового анализа:\n• The Real Mother Goose — рифмы и аллитерации.\n• The Book of Nonsense — ударение и ритм.\n• The Gingerbread Man на British Council — аудио и повтор фраз.\n\nНе требуйте от ребёнка читать сложный текст целиком. Для 7 лет достаточно 3–5 новых слов за книгу."
+    },
+    "ar": {
+      "title": "Арабский: огласовки (tashkeel / harakat)",
+      "text": "Ключевой аспект — огласовки: фатха, дамма, касра, шва, танвин, шадда.\n\nНаиболее полезны для огласовок:\n• قاعدة نورانية — буквы и гласные.\n• الغراب العطشان, الأسد والفأر, الأرنب والسلحفاة — короткие сюжеты; ищите издания с полной огласовкой.\n• كليلة ودمنة и السندباد البحري — для более длинного чтения, только в детских адаптациях.\n\nЕсли в издании нет огласовок, не используйте его как основное чтение. Можно применять его как «картинную историю», а слова с harakat выносить на карточки."
+    },
+    "zh": {
+      "title": "Китайский: пиньинь и тоны",
+      "text": "Без тонов китайский теряет смысл: mā, má, mǎ, mà — разные слова.\n\nНаиболее полезны:\n• Mandarin Chinese: Pinyin and Tones на Wikibooks — база произношения.\n• 乌鸦喝水, 守株待兔, 井底之蛙, 木兰诗, 西游记：大闹天宫 — ищите именно 儿童拼音版.\n\nНе перегружайте ребёнка иероглифами. На этапе «начинающий» достаточно узнавать 10–20 слов в пиньине, слушать тон и повторять. Иероглифы вводите позже, по 2–3 символа в неделю."
+    }
+  }
+}
